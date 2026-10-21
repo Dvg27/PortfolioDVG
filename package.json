@@ -6,7 +6,7 @@
   "scripts": {
     "start": "serve .",
     "dev": "serve .",
-    "build": "echo 'Static site ready for deployment'"
+    "preview": "serve ."
   },
   "devDependencies": {
     "serve": "^14.2.4"
