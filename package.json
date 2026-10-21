@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-dvg",
+  "version": "1.0.0",
+  "description": "Modern 3D Portfolio built with Three.js, GSAP, and WebGL",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve .",
+    "build": "echo 'Static site ready for deployment'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "keywords": [
+    "portfolio",
+    "threejs",
+    "webgl",
+    "gsap",
+    "creative-developer"
+  ],
+  "author": "DVG",
+  "license": "MIT"
+}
